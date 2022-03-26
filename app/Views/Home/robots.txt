@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://fill-easy.com/sitemap.xml
+Sitemap: http://fill-easy.com/sitemap.xml

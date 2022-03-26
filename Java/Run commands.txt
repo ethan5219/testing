@@ -1,0 +1,24 @@
+P
+1. To run pdf generation - use the below command. This will run the service in port 8083
+Parameters 1)Template path ;;;;; 2)Output path where pdf will be generated
+
+java -jar /Users/leunghocheong/Documents/GitHub/Java/pdfutility-1.0.jar /Users/leunghocheong/Documents/GitHub/Java/templates /Users/leunghocheong/Documents/GitHub/Java/output
+
+------------------------------------------------------------------------------------------------------
+2. To run JsonGenerator - use the below command
+Parameters 1)Template path
+
+java -jar C:\Java\jsongenerator-1.0-jar-with-dependencies.jar  C:/Java/templates/
+
+------------------------------------------------------------------------------------------------------
+3. To run Template checker - use the below command. 
+Parameters 1)xlsx file path ;;;; 2)template directory ;;;;; 3)excel sheet names 
+
+java -jar C:\Java\templatechecker-0.0.1-SNAPSHOT-jar-with-dependencies.jar "C:\Java\List_of_MPF_java_form_template.xlsx" "C:\\Java\\templates\\" "Mandatory,Name and ID,Address,Employment,Phone Number & Fax,Email"
+
+
+,Employment,Martial Status,Phone Number & Fax,Email
+==============================================================================================================
+==============================================================================================================
+
+

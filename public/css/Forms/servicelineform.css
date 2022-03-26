@@ -1,0 +1,148 @@
+body{
+	user-select:none
+		
+}
+
+input[type=checkbox]:checked + .checkbox-overlay{
+  background-color: #c9c7c0;
+  transition: 0.5s;
+  border-radius: 50px;
+  background-clip: content-box;
+}
+
+
+
+
+label {
+  display: block;
+  position: relative;
+  cursor: pointer;
+}
+
+.active-bubble {
+	background-color: white !important; 
+	color: black !important;
+
+}
+
+.picture-checkbox-input {
+	display:none;
+}
+
+.card__image { 
+	width: 100% !important;
+    height: auto;
+    max-height: 150px;
+    max-width: 650px !important;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;  
+}
+
+.card__image img { 
+	width: 100% !important;
+	image-rendering: -webkit-optimize-contrast !important;
+}
+
+.col-lg-6.col-12.card__wrap.checkbox-overlay {
+		padding: 2px;
+}
+
+label {
+	display: block;
+	margin-bottom: 0;
+}
+
+
+.checkbox-overlay {
+	margin-bottom: 0px !important;
+}
+
+.content6 {
+	padding-top: 0;
+}
+
+
+.cid-sPEMO5a4EG .card__content { 
+	display:flex; 
+	justify-content: left;
+	align-items: center;
+	padding-right: 5px;
+}
+
+
+.cid-sPEMO5a4EG .card__image {
+	display:flex; 
+	justify-content: center;
+	align-items: center;
+
+}
+
+.cid-sPEMO5a4EG .nav-tabs .nav-link.active {
+	padding-bottom:10px;
+}
+
+.cid-sPEMO5a4EG .nav-tabs .nav-link {
+	padding-bottom:10px;
+}
+
+.cid-sPEMO5a4EG .card__title {
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+
+.media-container-row {
+	margin-top: 25px;
+}
+
+.cid-sPEMO5a4EG .nav-tabs {
+	margin-bottom:50px;
+}
+
+
+
+.tab-content{ 
+	padding: 0px 50px;
+}
+
+@media (max-width: 991px){
+.mbr-fonts-style.display-7  {
+	font-size:1rem !important
+  }
+}
+
+@media (max-width: 991px){
+.display-4  {
+	font-size:1.1rem !important;
+
+}
+
+
+@media (max-width: 991px){
+.cid-sPEMO5a4EG .nav-tabs  {
+	gap: 5px;
+
+  }
+  
+  
+
+@media (max-width: 991px){
+.cid-sPEMO5a4EG .card__title {
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 1200px) {
+.row {
+	padding-left: 100px; 
+	padding-right: 100px;
+}
+}
+
+

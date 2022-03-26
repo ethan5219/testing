@@ -1,0 +1,17 @@
+.keys,
+.boxes {
+  display: flex;
+  margin: 3em auto;
+}
+
+button {
+  flex-grow: 1;
+}
+
+label {
+  display: block;
+}
+
+.box div {
+  display: flex;
+}

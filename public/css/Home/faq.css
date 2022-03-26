@@ -1,0 +1,28 @@
+.cid-sTNj368LCY .mbr-text {
+	color: #282828;
+}
+
+.subtitle {
+	color: #2b299e;
+	font-family: 'DM Sans', sans-serif;
+	font-size: 2.5rem;
+	font-weight: 600;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.accordion {
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}

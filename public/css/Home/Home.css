@@ -1,0 +1,44 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color:#fafafa;
+}
+
+
+img {
+	image-rendering: -webkit-optimize-contrast !important;
+	
+}
+
+.cid-sNMYhKAwJd .card {
+	background-color: white;
+	padding: 0;
+}
+
+.cid-sNMYhKAwJd .card img {
+	height: 100px;
+}
+
+.cid-sOvLL7B3JG .image-wrap img {
+    height: 90%;
+    margin-top: 10px;
+    margin-left: 15px;
+    
+
+
+}
+
+
+
+@media (max-width: 600px) {
+	.cid-sOvLL7B3JG .card-wrap .image-wrap img{
+		margin-bottom: 0px;
+		padding-bottom:0px;
+		height:85%;
+		margin-top: 60px;	}
+	
+	.cid-sOvLL7B3JG .image-wrap{
+		padding-bottom:0px;
+		
+	}
+}

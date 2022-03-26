@@ -1,0 +1,23 @@
+CRITICAL - 2022-03-10 04:43:08 --> Class 'BaseController' not found
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Autoloader/Autoloader.php(294): include_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(893): class_exists('\\App\\Controller...', true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(417): CodeIgniter\CodeIgniter->startController()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#10 {main}
+CRITICAL - 2022-03-10 12:08:21 --> syntax error, unexpected '}', expecting end of file
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/X...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(893): class_exists('\\App\\Controller...', true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(417): CodeIgniter\CodeIgniter->startController()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#9 {main}

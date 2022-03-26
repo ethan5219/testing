@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>填鸭</title>
+
+<link rel="icon" type="image/png" href=<?php echo base_url('/images/logo.ico'); ?> sizes="16x16">
+<link href = /css/bootstrap/bootstrap.css rel="stylesheet" type="text/css">
+<link href = /css/footerstyle.css rel="stylesheet" type="text/css">
+<link href = /css/headerstyle.css rel="stylesheet" type="text/css">
+<link rel="stylesheet" id="cf7cf-style-css" href="/css/refcss/temp.css" type="text/css" media="all">
+<link rel="stylesheet" id="cf7cfasd-style-css" href="/css/card.css" type="text/css" media="all">
+
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+<body>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script type = 'text/javascript' src ='/js/Site_JS/landingpage.js'></script>
+<script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+
+<script>   
+   AOS.init({
+   duration: 800,
+   delay: 400,
+   disable: 'mobile'
+});
+</script>
+
+<div class = "bg--yellow">
+<div>
+
+<a href="/home/" imageanchor="1">
+<img src= "<?php echo base_url('/images/logo.png'); ?>" class = "logo"/>
+</a> 
+<ul class="header__items">
+      
+      <li class="header__item">
+        <a href="/blog/" class="header__link">Blog</a>
+      </li>
+      
+      <li class="header__item">
+        <a href="/gallery/" class="header__link">Gallery</a>
+      </li>
+      
+      <li class="header__item">
+        <a href="/plans/" class="header__link">Plans</a>
+      </li>
+      
+      <li class="header__item">
+        <a href="https://learn.siteleaf.com" class="header__link">Learn</a>
+      </li>
+      
+      <li class="header__item">
+        <a href="https://manage.siteleaf.com" class="header__link">Log in</a>
+      </li>
+      
+      <li class="header__item">
+        <a href="https://manage.siteleaf.com/signup" class="header__link header__link--button">Sign up</a>
+      </li>
+
+    </ul>
+</div>
+<img src= "<?php echo base_url('/images/bird.png'); ?>" class = "bird-flying"/>     
+<div class = "landing-page-head">
+<h1 class="header__title">填鸭.</h1>
+<h2 class="header__subtitle"> 各式表格 ‧ 帮你搵 ‧ 帮你填 ‧ 帮你交</h2>
+</div>
+ </div>
+<div class = "wave" style = "background:#F6F6F6">
+
+ </div>
+
+<div class = "bg--white" style = "background-color:white">
+
+<h1 class = "header__3">About Us</h1> 
+<h3 class = "subheader__3">HKUST MSc FinTech </h3>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+
+<div class="flex-grid-app-explain">
+  <div class="">
+  
+  </div>
+  </div>
+  <div class="project">
+    <div class="proleft">
+      <p> <img src="./images/Matthew.png" alt=""> <img src="./images/Andrew.png" alt=""> <img src="./images/Arnold.png" alt=""> <img src="./images/Rachel.png" alt=""> <img src="./images/Serena.png" alt=""> <img src="./images/Karen.png" alt=""> </p>
+    </div>
+    <div class="proright">
+      <h3>Team</h3>
+      <p> MSc FinTech Students with a diverse array of Technical skills and qualifications. </p>
+      <span>&gt;</span> </div>
+  </div>
+
+  <div class="show"> <img src="./images/Matthew.png" alt= "">
+    <div class="showmag">
+      <h3>Filleasy Member 1</h3>
+      <p>Member 1 introduction </p>
+    </div>
+  </div>
+  <div class="show"> <img src="./images/123.jpg" alt="">
+    <div class="showmag">
+      <h3>Filleasy Member 1</h3>
+      <p>Member 1 introduction </p>
+    </div>
+  </div>
+    
+<div class = "bg--blue">
+
+</div>    
+ 
+ 
+  </div>
+  <div class="footer">
+    <div class="main">
+      <h3>Fill Easy</h3>
+      <div class="mainmag">
+        <ul>
+          <li>About Fill Easy</li>
+          <li>品牌故事</li>
+          <li>公司历程</li>
+        </ul>
+        <ul>
+          <li>客户服务</li>
+          <li>咨询服务</li>
+          <li>友情链接</li>
+          <li>常见问他</li>
+          <li>更多</li>
+        </ul>
+        <ul>
+          <li>找到我们</li>
+          <li>地图导航</li>
+          <li> <img src="./images/icon1.png" alt=""> <img src="./images/icon2.png" alt=""> <img src="./images/icon3.png" alt=""> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="button">
+    <p><span>网页底部 </span></p>
+  </div>
+</div>
+</body>
+</html>

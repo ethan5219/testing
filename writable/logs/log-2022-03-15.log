@@ -1,0 +1,203 @@
+CRITICAL - 2022-03-15 02:41:12 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:42:08 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:43:17 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:43:19 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:43:31 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:44:30 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:44:31 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:44:31 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:44:51 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#4 {main}
+CRITICAL - 2022-03-15 02:46:08 --> syntax error, unexpected 'if' (T_IF)
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CLI/Console.php(61): CodeIgniter\CodeIgniter->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/spark(66): CodeIgniter\CLI\Console->run()
+#4 {main}
+CRITICAL - 2022-03-15 02:54:12 --> Invalid file: home.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Common.php(1217): CodeIgniter\View\View->render('home', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/Pages.php(17): view('home')
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\Pages->index2()
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2022-03-15 02:54:54 --> Invalid file: home.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Common.php(1217): CodeIgniter\View\View->render('home', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/Pages.php(17): view('home')
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\Pages->index2()
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2022-03-15 02:55:39 --> Invalid file: home.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Common.php(1217): CodeIgniter\View\View->render('home', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/Pages.php(17): view('home')
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\Pages->index2()
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2022-03-15 02:55:41 --> Invalid file: home.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Common.php(1217): CodeIgniter\View\View->render('home', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/Pages.php(17): view('home')
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\Pages->index2()
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2022-03-15 02:55:41 --> Invalid file: home.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Common.php(1217): CodeIgniter\View\View->render('home', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/Pages.php(17): view('home')
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\Pages->index2()
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2022-03-15 02:55:41 --> Invalid file: home.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Common.php(1217): CodeIgniter\View\View->render('home', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/Pages.php(17): view('home')
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\Pages->index2()
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2022-03-15 02:55:41 --> Invalid file: home.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Common.php(1217): CodeIgniter\View\View->render('home', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/Pages.php(17): view('home')
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\Pages->index2()
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2022-03-15 04:57:23 --> Call to undefined method App\Models\NewsModel::getNews
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): CodeIgniter\Model->__call('getNews', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#6 {main}
+CRITICAL - 2022-03-15 04:59:09 --> Call to undefined method App\Models\NewsModel::getNews
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): CodeIgniter\Model->__call('getNews', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#6 {main}
+CRITICAL - 2022-03-15 05:08:37 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/X...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\News...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\News...')
+#3 [internal function]: spl_autoload_call('App\\Models\\News...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Config/Factories.php(144): class_exists('App\\Models\\News...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Config/Factories.php(109): CodeIgniter\Config\Factories::locateClass(Array, 'App\\Models\\News...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Common.php(847): CodeIgniter\Config\Factories::__callStatic('models', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(11): model('App\\Models\\News...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#12 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#13 {main}
+ERROR - 2022-03-15 05:09:20 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-15 05:09:20 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(14): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-15 05:09:58 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-15 05:09:58 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(14): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-15 05:10:00 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-15 05:10:00 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(14): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}

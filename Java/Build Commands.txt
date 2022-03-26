@@ -1,0 +1,15 @@
+1. To build pdf generation - use the below command. (pdfutility)
+mvn clean  package spring-boot:repackage
+
+------------------------------------------------------------------------------------------------------
+2. To build JsonGenerator - use the below command (pdfutility)
+mvn -f pomJSONGenerator.xml clean compile assembly:single
+
+------------------------------------------------------------------------------------------------------
+3. To build Template checker - use the below command. (templatechecker)
+mvn clean compile assembly:single
+
+==============================================================================================================
+==============================================================================================================
+
+

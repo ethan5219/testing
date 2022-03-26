@@ -1,0 +1,58 @@
+.logos {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin-top:50px;	
+	margin-bottom:50px;	
+	gap:50px;
+}
+
+.logo-cards 
+{
+	width: 25%;
+
+	display:inline-block;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo-cards img{
+	height:auto;
+	max-width:100%;
+
+}
+
+.display-7 {
+	margin-bottom:0px !important;
+}
+.logo-cards img {
+	image-rendering: -webkit-optimize-contrast !important;
+	
+}
+
+.container {
+	margin-top: 25px;
+}
+
+.cid-sNby4SF7wl .mbr-section-subtitle{
+	color:#282828;
+	font-size: 1.1rem;
+}
+
+
+@media (max-width: 600px) {
+.logos {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin-top:30px;	
+	margin-bottom:20px;	
+	gap:15px;
+	flex-direction: column;
+}
+.logo-cards {
+
+    width:40%;
+
+}
+}

@@ -1,0 +1,126 @@
+ERROR - 2022-03-17 00:02:36 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 00:02:36 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(14): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-17 01:00:31 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 01:00:31 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-17 01:07:45 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 01:07:45 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-17 01:07:46 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 01:07:46 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-17 01:07:46 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 01:07:46 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-17 01:16:55 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 01:16:55 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-17 01:20:33 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 01:20:33 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-17 01:20:36 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 01:20:36 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
+ERROR - 2022-03-17 01:24:29 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-17 01:24:29 --> Unable to connect to the database.
+#0 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/XAMPP/xamppfiles/htdocs/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Applications/XAMPP/xamppfiles/htdocs/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Applications/XAMPP/xamppfiles/htdocs/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/testing/system/Commands/Server/rewrite.php(45): require_once('/Applications/X...')
+#11 {main}
