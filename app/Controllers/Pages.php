@@ -16,7 +16,6 @@ class Pages extends BaseController
         $session = \Config\Services::session();
         return view("Pages/home");
 
-            
     }  
     public function view($page = 'home')
     {
