@@ -40,3 +40,17 @@ CRITICAL - 2022-03-28 10:50:54 --> Unable to connect to the database.
 #9 /Users/leunghocheong/Documents/programming/testing/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
 #10 /Users/leunghocheong/Documents/programming/testing/testing/system/Commands/Server/rewrite.php(45): require_once('/Users/leunghoc...')
 #11 {main}
+ERROR - 2022-03-28 23:53:37 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-28 23:53:37 --> Unable to connect to the database.
+#0 /Users/leunghocheong/Documents/programming/testing/testing/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Users/leunghocheong/Documents/programming/testing/testing/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Users/leunghocheong/Documents/programming/testing/testing/system/Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#3 /Users/leunghocheong/Documents/programming/testing/testing/system/BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Users/leunghocheong/Documents/programming/testing/testing/app/Models/NewsModel.php(17): CodeIgniter\BaseModel->findAll()
+#5 /Users/leunghocheong/Documents/programming/testing/testing/app/Controllers/News.php(14): App\Models\NewsModel->getNews()
+#6 /Users/leunghocheong/Documents/programming/testing/testing/system/CodeIgniter.php(936): App\Controllers\News->index()
+#7 /Users/leunghocheong/Documents/programming/testing/testing/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#8 /Users/leunghocheong/Documents/programming/testing/testing/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/leunghocheong/Documents/programming/testing/testing/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 /Users/leunghocheong/Documents/programming/testing/testing/system/Commands/Server/rewrite.php(45): require_once('/Users/leunghoc...')
+#11 {main}

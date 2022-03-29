@@ -31,12 +31,15 @@ $routes->setAutoRoute(False);
  */
 
 
+$routes->post('/news/create', 'News::create');
 $routes->get('/', 'Pages::index');
 $routes->get('pages/index_hi', 'Pages::index_hi');
 $routes->get('pages/view', 'Pages::view');
+$routes->match(['get', 'post'], 'news/create', 'News::create');
 $routes->get('news/(:segment)', 'News::view/$1');
 $routes->get('news', 'News::index');
 $routes->get('(:any)', 'Pages::view/$1');
+
 
 
 // We get a performance increase by specifying the default

@@ -24,7 +24,7 @@ class Database extends Config
 	 *
 	 * @var string
 	 */
-	public $defaultGroup = 'default';
+	public $defaultGroup = 'test';
 
 	/**
 	 * The default database connection.
@@ -102,23 +102,24 @@ class Database extends Config
 	 */
 	public $test = [
 		'DSN'      => '',
-		'hostname' => 'localhost',
+		'hostname' => '127.0.0.1',
 		'username' => 'root',
 		'password' => '',
 		'database' => 'test',
-		'DBDriver' => 'SQLite3',
-		'DBPrefix' => 'db_',  // Needed to ensure we're working correctly with prefixes live. DO NOT REMOVE FOR CI DEVS
-		'pConnect' => TRUE,
-		'DBDebug'  => (ENVIRONMENT !== 'production'),
-		'charset'  => 'utf8',
-		'DBCollat' => 'utf8_general_ci',
-		'swapPre'  => '',
-		'encrypt'  => false,
-		'compress' => false,
-		'strictOn' => false,
-		'failover' => [],
-		'port'     => 3306,
+		'DBDriver' => 'MySQLi',
+	    'DBPrefix' => '',
+	    'pConnect' => TRUE,
+	    'DBDebug'  => TRUE,
+	    'charset'  => 'utf8',
+	    'DBCollat' => 'utf8_general_ci',
+	    'swapPre'  => '',
+	    'encrypt'  => false,
+	    'compress' => false,
+	    'strictOn' => false,
+	    'failover' => [],
+	    'port'     => 3306,
 	];
+
 
 	//--------------------------------------------------------------------
 
